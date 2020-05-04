@@ -1,0 +1,13 @@
+C:\Users\Chris\Documents\GC bootcamp\week11\Lab 11 Class UML\Lab 11 Class UML\bin\Debug\netcoreapp3.1\Lab 11 Class UML.exe
+C:\Users\Chris\Documents\GC bootcamp\week11\Lab 11 Class UML\Lab 11 Class UML\bin\Debug\netcoreapp3.1\Lab 11 Class UML.deps.json
+C:\Users\Chris\Documents\GC bootcamp\week11\Lab 11 Class UML\Lab 11 Class UML\bin\Debug\netcoreapp3.1\Lab 11 Class UML.runtimeconfig.json
+C:\Users\Chris\Documents\GC bootcamp\week11\Lab 11 Class UML\Lab 11 Class UML\bin\Debug\netcoreapp3.1\Lab 11 Class UML.runtimeconfig.dev.json
+C:\Users\Chris\Documents\GC bootcamp\week11\Lab 11 Class UML\Lab 11 Class UML\bin\Debug\netcoreapp3.1\Lab 11 Class UML.dll
+C:\Users\Chris\Documents\GC bootcamp\week11\Lab 11 Class UML\Lab 11 Class UML\bin\Debug\netcoreapp3.1\Lab 11 Class UML.pdb
+C:\Users\Chris\Documents\GC bootcamp\week11\Lab 11 Class UML\Lab 11 Class UML\obj\Debug\netcoreapp3.1\Lab 11 Class UML.csprojAssemblyReference.cache
+C:\Users\Chris\Documents\GC bootcamp\week11\Lab 11 Class UML\Lab 11 Class UML\obj\Debug\netcoreapp3.1\Lab 11 Class UML.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\GC bootcamp\week11\Lab 11 Class UML\Lab 11 Class UML\obj\Debug\netcoreapp3.1\Lab 11 Class UML.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\GC bootcamp\week11\Lab 11 Class UML\Lab 11 Class UML\obj\Debug\netcoreapp3.1\Lab 11 Class UML.AssemblyInfo.cs
+C:\Users\Chris\Documents\GC bootcamp\week11\Lab 11 Class UML\Lab 11 Class UML\obj\Debug\netcoreapp3.1\Lab 11 Class UML.dll
+C:\Users\Chris\Documents\GC bootcamp\week11\Lab 11 Class UML\Lab 11 Class UML\obj\Debug\netcoreapp3.1\Lab 11 Class UML.pdb
+C:\Users\Chris\Documents\GC bootcamp\week11\Lab 11 Class UML\Lab 11 Class UML\obj\Debug\netcoreapp3.1\Lab 11 Class UML.genruntimeconfig.cache
